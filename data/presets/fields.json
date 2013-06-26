@@ -263,6 +263,11 @@
         "type": "combo",
         "label": "Incline"
     },
+    "information": {
+        "key": "information",
+        "type": "combo",
+        "label": "Type"
+    },
     "internet_access": {
         "key": "internet_access",
         "type": "combo",

@@ -2111,6 +2111,22 @@
         },
         "name": "Wayside Shrine"
     },
+    "information/guidepost": {
+        "geometry": [
+            "point"
+        ],
+        "terms": [
+            "signpost"
+        ],
+        "tags": {
+            "information": "guidepost",
+            "tourism": "information"
+        },
+        "fields": [
+            "elevation"
+        ],
+        "name": "Guidepost"
+    },
     "landuse": {
         "fields": [
             "landuse"

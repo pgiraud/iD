@@ -524,6 +524,9 @@
             "incline": {
                 "label": "Incline"
             },
+            "information": {
+                "label": "Type"
+            },
             "internet_access": {
                 "label": "Internet Access",
                 "options": {
@@ -1184,6 +1187,10 @@
             "historic/wayside_shrine": {
                 "name": "Wayside Shrine",
                 "terms": ""
+            },
+            "information/guidepost": {
+                "name": "Guidepost",
+                "terms": "signpost"
             },
             "landuse": {
                 "name": "Landuse",
